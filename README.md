@@ -6,12 +6,7 @@ Given a Binary Search Tree (BST) and a pointer/reference to a particular node, w
 **Example:**
 ## Tree Structure
 
-    10
-   /  \
-  5    15
- /     / \
-2    12  20
-
+<pre> ``` 10 / \ 5 15 / / \ 2 12 20 ``` </pre>
 
 **Input:** 
 node = 15
