@@ -4,12 +4,14 @@ Given a Binary Search Tree (BST) and a pointer/reference to a particular node, w
 1. The next smallest value (inorder predecessor).
 2. The next largest value (inorder successor).
 **Example:**
+## Tree Structure
 
-        10
-       /  \
-      5    15
-     /     / \
-    2    12  20
+    10
+   /  \
+  5    15
+ /     / \
+2    12  20
+
 
 **Input:** 
 node = 15
